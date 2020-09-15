@@ -4,3 +4,7 @@
 body{
 	background-color: green;
 }
+table{
+	border: 10px;
+	border-top-color: skyblue;
+}
