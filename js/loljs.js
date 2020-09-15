@@ -1,4 +1,6 @@
-console.log("HOLA!!!!")
+console.log("HOLA!!!!");
 if (true) {
-	alert("ey dude")
+	alert("ey dude");
+}else{
+	alert("be carefull");
 }
